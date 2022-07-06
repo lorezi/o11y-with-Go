@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	port := 8080
+	port := 8082
 	readTimeout := time.Millisecond * 500
 	writeTimeout := time.Millisecond * 500
 
